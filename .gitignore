@@ -1,0 +1,20 @@
+# Patient data and derived files: never commit
+*.ome.tif
+*.tif
+*.tiff
+*.vsi
+*.mat
+*.npz
+*.xlsx
+*.xls
+*.numbers
+*.pdf
+data/
+eda_v4_outputs/
+tiles_v1/
+encoders_v1/
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

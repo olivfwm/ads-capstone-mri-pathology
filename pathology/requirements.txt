@@ -1,0 +1,20 @@
+# Slide reading and image processing (notebooks 01 to 04)
+numpy
+pandas
+scipy
+matplotlib
+pillow
+scikit-image
+scikit-learn
+tifffile
+imagecodecs[all]
+
+# Encoders (notebook 03, GPU)
+torch
+torchvision
+timm
+huggingface_hub
+conch @ git+https://github.com/Mahmoodlab/CONCH.git
+
+# Gleason distribution script
+openpyxl
