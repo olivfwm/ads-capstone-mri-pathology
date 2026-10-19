@@ -3,6 +3,7 @@
 Capstone project for the MS in Applied Data Science, University of Chicago, in collaboration with the UChicago Departments of Radiology and Pathology.
 
 **Team:** Dhanush Ramachandran, Olivia Fang, Mahima Goyal
+
 **Supervisor:** Utku Pamuksuz
 
 ## Overview
